@@ -1,0 +1,26 @@
+
+1. 브라우저에서 실행 (크롬을 추천합니다)
+
+0_run_aj.html 파일을 브라우저에서 열어주세요.
+도구더보기 > 개발자도구 를 실행하여 개발자도구를 열어주세요.
+개발자 도구에서 Console 탭을 클릭하시면 각 js 파일들의 실행 결과를 확인하실 수 있습니다.
+
+2. NodeJs 에서 실행
+
+- NodeJS 를 설치하여야 합니다.
+  * [ https://nodejs.org/en/ ] 이곳에서 설치 파일을 다운로드 받아 설치하는 방법.
+  * [ https://nodejs.org/en/download/package-manager/#nvm ]
+    이곳의 설명에 따라 nvm (node version manager) 를 통해 설치하는 방법. (Only Mac)
+    https://thewavelet.tistory.com/5 블로그의 설명이 도움이 될 수 있습니다.
+
+- 프로젝트 폴더에서 다음의 명령어들을 CLI (Command Line Interface) 에서 실행해주세요.
+> node a_random-number-1000-9999.js
+> node b_two-power.js
+> node c_random-string-20-length.js
+> node d_is-service-time-bus.js
+> node e_snail-array.js
+> node f_is-straight-line-3points.js
+> node g_string-count-compress.js
+> node h_2array10-inter-union.js
+> node i_hello-3hel-5low.js
+> node j_is-12345-exist.js
